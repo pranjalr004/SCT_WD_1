@@ -147,8 +147,8 @@ body{
 }
 
 /* Section Background Colors */
-#home { background-color: #f8f9fa; }
-#about { background-color: #e9ecef; }
-#services { background-color: #dee2e6; }
-#portfolio { background-color: #ced4da; }
-#contact { background-color: #adb5bd; }
+#home { background-color: #f8d2c5; }
+#about { background-color: #dcfbe4; }
+#services { background-color: #2b915d; }
+#portfolio { background-color: #ffdf00; }
+#contact { background-color: #f0a055; }
